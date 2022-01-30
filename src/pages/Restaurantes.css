@@ -1,0 +1,15 @@
+.img-match{
+    width: 207px;
+}
+
+.barra-rest{
+    border: 4px solid rgb(24, 135, 84);
+    border-radius: 5px;
+    opacity: 2;
+}
+
+.barra-menus{
+    border: 4px solid #da9515;
+    border-radius: 5px;
+    opacity: 2;
+}

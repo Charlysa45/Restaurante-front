@@ -1,0 +1,8 @@
+.restLink{
+    color: rgb(24, 135, 84);
+    text-decoration: none;
+}
+
+.restLink:hover{
+    color: black;
+}
